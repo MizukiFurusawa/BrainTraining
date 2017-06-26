@@ -1,5 +1,5 @@
-# AndroidCalculatorApp
-【勉強会資料】iPhoneの電卓アプリをAndroidで作ってみよう.
+# brain-training
+libgdxを使って脳トレアプリを作ってみよう.
 
 ## build
 libgdxのプロジェクトを実行するコマンド一覧
